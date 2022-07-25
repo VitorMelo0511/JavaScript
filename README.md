@@ -1,6 +1,8 @@
 # JavaScript
  Este repositório contem Exercícios de JavaScript realizados durante o curso da OneBitCode.
 
+ <a href = "https://vitormelo0511.github.io/JavaScript/MiniProjeto_01/projeto1JS.html"> JavaScript - Mini projeto de JS para exibir a hora e diferentes imagens do dia de maneira automatica.</a>
+
 <a href = "https://vitormelo0511.github.io/JavaScript/ex01.html"> JavaScript - Pegando dados do Usuario</a>
 
 <a href = "https://vitormelo0511.github.io/JavaScript/ex02.html"> JavaScript - Utililizando JS Externo</a>
